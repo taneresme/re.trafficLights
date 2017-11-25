@@ -1,3 +1,9 @@
 - Agents: Counters, lights and software
 - think of 2 roads.
 - take into consideration of other directions of road.
+
+25.11.2017
+- Actuator'in degeri, agent'in inputu olabilir. Yesil isigin state'i software'in input olacak.
+- 8 tane isik var.
+- Goal'in ismi yayalar su kadar beklesin seklinde olmali.
+- Sola ve saga sapma hesaba katilmali.
