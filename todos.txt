@@ -1,0 +1,3 @@
+- Agents: Counters, lights and software
+- think of 2 roads.
+- take into consideration of other directions of road.
